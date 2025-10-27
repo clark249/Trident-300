@@ -1,5 +1,3 @@
-[include mmu/base/*.cfg]
-[include mmu/optional/client_macros.cfg]
 #####################################################################
 ##    This config is for Trident, with Cartographer Included
 ##    For testing purposes  This is a comment to test Klipper-Backup in Trident-300       
